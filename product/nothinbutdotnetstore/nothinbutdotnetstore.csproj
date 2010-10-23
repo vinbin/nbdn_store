@@ -84,6 +84,7 @@
     <Compile Include="tasks\startup\AutoWiringDependencies.cs" />
     <Compile Include="tasks\startup\ConfiguringApplicationRoutes.cs" />
     <Compile Include="tasks\startup\ConfiguringInfrastructure.cs" />
+    <Compile Include="tasks\startup\DefaultStartupCommandFactory.cs" />
     <Compile Include="tasks\startup\Startup.cs" />
     <Compile Include="tasks\startup\StartupCommand.cs" />
     <Compile Include="tasks\startup\StartupCommandFactory.cs" />
